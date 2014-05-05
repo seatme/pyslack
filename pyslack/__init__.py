@@ -3,7 +3,7 @@ import logging
 
 try:
     import requests
-except ImportError
+except ImportError:
     pass
 
 
